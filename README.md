@@ -1,6 +1,6 @@
 # 🏄‍♂ Marc Kastholm
 
-**`Fullstack Developer`**
+**`Fullstack Developer / Programmatic`**
 
 Siden jeg begyndte med webudvikling og design af brugergrænseflader, har jeg været drevet af friheden til at skabe – kun begrænset af min egen kunnen. Med passion og dedikation har jeg opbygget en stærk baggrund inden for programmeringssprog og moderne webudviklingsmetoder, hvilket gør mig i stand til at udvikle og designe alt fra enkle hjemmesider til komplekse applikationer.
 
@@ -30,10 +30,10 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Google Ad Manager" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Google_Ad_Manager_logo.png" />
+<img align="left" alt="Google Ad Manager" width="30px" style="padding-right:10px;" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admanager_192px_MuAH4Zs.max-800x800.png" />
 <br />
 
----
+#
 
 ### 🧰 Other Skills & Technologies
 
