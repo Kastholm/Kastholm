@@ -46,8 +46,7 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 
 ### 📺 My top projects
 
-<div style="display:grid; grid-template-columns: auto auto auto;">
-<img src="https://ibb.co/yW8qhY4" />
+<div style="display:grid; grid-template-columns: 1fr 1fr;">
   <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
    <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
    <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
