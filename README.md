@@ -44,7 +44,7 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 
 ### 📺 My best projects
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://din-link-1.com">
