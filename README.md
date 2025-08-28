@@ -47,10 +47,10 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 ### 📺 My top projects
 
 <div style="display:flex; flex-wrap: wrap;">
-  <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
-   <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
-   <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
-   <img src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
+  <img width="150px" src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
+   <img width="150px" src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
+   <img width="150px" src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
+   <img width="150px" src="https://i.ibb.co/J5zHxy3/Screenshot-2023-12-25-at-14-23-46.png" />
 </div>
 
 <img style="position:fixed; inset:0;" src="https://wallpapers.com/images/hd/blank-white-background-xbsfzsltjksfompa.jpg" />
