@@ -47,15 +47,15 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 ### 📺 My top projects
 
 <div style="display:flex; flex-wrap: wrap;">
-<img src="https://i.ibb.co/LhDBzCLn/Screenshot-2025-08-28-at-12-02-57.png" alt="Screenshot-2025-08-28-at-12-02-57" border="0">
-<img src="https://i.ibb.co/ymmmLr51/Screenshot-2025-08-28-at-12-15-34.png" alt="Screenshot-2025-08-28-at-12-15-34" border="0">
-<img src="https://i.ibb.co/Xr2q0Qw0/Screenshot-2025-08-28-at-12-15-48.png" alt="Screenshot-2025-08-28-at-12-15-48" border="0">
-<img src="https://i.ibb.co/x0qGRpg/Screenshot-2025-08-28-at-12-16-00.png" alt="Screenshot-2025-08-28-at-12-16-00" border="0">
-<img src="https://i.ibb.co/Xr85b2df/Screenshot-2025-08-28-at-12-16-09.png" alt="Screenshot-2025-08-28-at-12-16-09" border="0">
-<img src="https://i.ibb.co/pj3ZQkQH/Screenshot-2025-08-28-at-12-16-21.png" alt="Screenshot-2025-08-28-at-12-16-21" border="0">
-<img src="https://i.ibb.co/BKtftmQH/Screenshot-2025-08-28-at-12-16-30.png" alt="Screenshot-2025-08-28-at-12-16-30" border="0">
-<img src="https://i.ibb.co/v6LvsPvF/Screenshot-2025-08-28-at-12-16-47.png" alt="Screenshot-2025-08-28-at-12-16-47" border="0">
-<img src="https://i.ibb.co/xqsCtJww/Screenshot-2025-08-28-at-12-16-54.png" alt="Screenshot-2025-08-28-at-12-16-54" border="0">
+<img width="300px" src="https://i.ibb.co/LhDBzCLn/Screenshot-2025-08-28-at-12-02-57.png" alt="Screenshot-2025-08-28-at-12-02-57" border="0">
+<img width="300px" src="https://i.ibb.co/ymmmLr51/Screenshot-2025-08-28-at-12-15-34.png" alt="Screenshot-2025-08-28-at-12-15-34" border="0">
+<img width="300px" src="https://i.ibb.co/Xr2q0Qw0/Screenshot-2025-08-28-at-12-15-48.png" alt="Screenshot-2025-08-28-at-12-15-48" border="0">
+<img width="300px" src="https://i.ibb.co/x0qGRpg/Screenshot-2025-08-28-at-12-16-00.png" alt="Screenshot-2025-08-28-at-12-16-00" border="0">
+<img width="300px" src="https://i.ibb.co/Xr85b2df/Screenshot-2025-08-28-at-12-16-09.png" alt="Screenshot-2025-08-28-at-12-16-09" border="0">
+<img width="300px" src="https://i.ibb.co/pj3ZQkQH/Screenshot-2025-08-28-at-12-16-21.png" alt="Screenshot-2025-08-28-at-12-16-21" border="0">
+<img width="300px" src="https://i.ibb.co/BKtftmQH/Screenshot-2025-08-28-at-12-16-30.png" alt="Screenshot-2025-08-28-at-12-16-30" border="0">
+<img width="300px" src="https://i.ibb.co/v6LvsPvF/Screenshot-2025-08-28-at-12-16-47.png" alt="Screenshot-2025-08-28-at-12-16-47" border="0">
+<img width="300px" src="https://i.ibb.co/xqsCtJww/Screenshot-2025-08-28-at-12-16-54.png" alt="Screenshot-2025-08-28-at-12-16-54" border="0">
 </div>
 
 <img style="position:fixed; inset:0;" height="100vh" src="https://wallpapers.com/images/hd/blank-white-background-xbsfzsltjksfompa.jpg" />
