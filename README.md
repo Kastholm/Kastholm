@@ -44,66 +44,24 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 
 ### 📺 My best projects
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://din-link-1.com">
-        <img width="300" src="https://i.ibb.co/dJwFK3Y5/Screenshot-2025-08-28-at-15-20-11.png" alt="Screenshot 1">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-2.com">
-        <img width="300" src="https://i.ibb.co/G4hGHvGj/Screenshot-2025-08-28-at-15-20-20.png" alt="Screenshot 2">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-3.com">
-        <img width="300" src="https://i.ibb.co/gbXsHmL5/Screenshot-2025-08-28-at-15-20-29.png" alt="Screenshot 3">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://din-link-4.com">
-        <img width="300" src="https://i.ibb.co/GvgjxTfh/Screenshot-2025-08-28-at-15-20-38.png" alt="Screenshot 4">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-5.com">
-        <img width="300" src="https://i.ibb.co/Gfz4CY8c/Screenshot-2025-08-28-at-15-20-49.png" alt="Screenshot 5">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-6.com">
-        <img width="300" src="https://i.ibb.co/8nMywZ4z/Screenshot-2025-08-28-at-15-20-59.png" alt="Screenshot 6">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://din-link-7.com">
-        <img width="300" src="https://i.ibb.co/972yVMs/Screenshot-2025-08-28-at-15-21-08.png" alt="Screenshot 7">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-8.com">
-        <img width="300" src="https://i.ibb.co/9HZJ7DtP/Screenshot-2025-08-28-at-15-21-17.png" alt="Screenshot 8">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://din-link-9.com">
-        <img width="300" src="https://i.ibb.co/N6rPrDJ6/Screenshot-2025-08-28-at-15-21-27.png" alt="Screenshot 9">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://din-link-10.com">
-        <img width="300" src="https://i.ibb.co/KxDptV8Y/Screenshot-2025-08-28-at-15-21-37.png" alt="Screenshot 10">
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://din-link-1.com"><img width="300" src="https://i.ibb.co/dJwFK3Y5/Screenshot-2025-08-28-at-15-20-11.png" alt="Screenshot 1"></a>&nbsp;&nbsp;
+  <a href="https://din-link-2.com"><img width="300" src="https://i.ibb.co/G4hGHvGj/Screenshot-2025-08-28-at-15-20-20.png" alt="Screenshot 2"></a>&nbsp;&nbsp;
+  <a href="https://din-link-3.com"><img width="300" src="https://i.ibb.co/gbXsHmL5/Screenshot-2025-08-28-at-15-20-29.png" alt="Screenshot 3"></a>
+</p>
+<p>
+  <a href="https://din-link-4.com"><img width="300" src="https://i.ibb.co/GvgjxTfh/Screenshot-2025-08-28-at-15-20-38.png" alt="Screenshot 4"></a>&nbsp;&nbsp;
+  <a href="https://din-link-5.com"><img width="300" src="https://i.ibb.co/Gfz4CY8c/Screenshot-2025-08-28-at-15-20-49.png" alt="Screenshot 5"></a>&nbsp;&nbsp;
+  <a href="https://din-link-6.com"><img width="300" src="https://i.ibb.co/8nMywZ4z/Screenshot-2025-08-28-at-15-20-59.png" alt="Screenshot 6"></a>
+</p>
+<p>
+  <a href="https://din-link-7.com"><img width="300" src="https://i.ibb.co/972yVMs/Screenshot-2025-08-28-at-15-21-08.png" alt="Screenshot 7"></a>&nbsp;&nbsp;
+  <a href="https://din-link-8.com"><img width="300" src="https://i.ibb.co/9HZJ7DtP/Screenshot-2025-08-28-at-15-21-17.png" alt="Screenshot 8"></a>&nbsp;&nbsp;
+  <a href="https://din-link-9.com"><img width="300" src="https://i.ibb.co/N6rPrDJ6/Screenshot-2025-08-28-at-15-21-27.png" alt="Screenshot 9"></a>
+</p>
+<p>
+  <a href="https://din-link-10.com"><img width="300" src="https://i.ibb.co/KxDptV8Y/Screenshot-2025-08-28-at-15-21-37.png" alt="Screenshot 10"></a>
+</p>
 
 
 
