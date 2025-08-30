@@ -1,7 +1,5 @@
 # 🏄‍♂ Marc Kastholm
 
-<img src="https://i.ibb.co/rKj5M3q3/typewriter-2.gif" alt="typewriter-2" border="0">
-
 **`Fullstack Developer / Programmatic`**
 
 Siden jeg begyndte med webudvikling og design af brugergrænseflader, har jeg været drevet af friheden til at skabe – kun begrænset af min egen kunnen. Med passion og dedikation har jeg opbygget en stærk baggrund inden for programmeringssprog og moderne webudviklingsmetoder, hvilket gør mig i stand til at udvikle og designe alt fra enkle hjemmesider til komplekse applikationer.
