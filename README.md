@@ -44,7 +44,7 @@ I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor j
 
 #
 
-### 📺 My favourite projects
+### 📺 My Favourite Projects
 
 <p>
   <a href="https://marckastholm.netlify.app/blog/projekt/flexnet"><img width="270" src="https://i.ibb.co/C58YWgxG/Screenshot-2025-08-30-at-14-36-21.png" alt="Screenshot 1"></a>&nbsp;&nbsp;
