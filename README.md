@@ -1,10 +1,10 @@
 # <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="visibility: visible; max-width: 100%;"> Marc Kastholm
 
-**`Fullstack Developer / Programmatic`**
+**`Fullstack Developer / AI Engineer`**
 
 Siden jeg begyndte med webudvikling og design af brugergrænseflader, har jeg været drevet af friheden til at skabe – kun begrænset af min egen kunnen. Med passion har jeg opbygget en stærk baggrund inden for programmeringssprog og moderne webudviklingsmetoder, hvilket gør mig i stand til at udvikle og designe alt fra enkle hjemmesider til komplekse applikationer.
 
-I dag retter jeg mit fokus mod backend-udvikling og fullstack-løsninger, hvor jeg kombinerer frontend-erfaring med en stigende ekspertise i Python. Mit mål er at udvikle komplette applikationer og specialiserede programmer, der løser konkrete problemer og skaber værdi – fra idé til færdigt produkt.
+I dag retter jeg mit primære fokus mod fullstack-løsninger og AI Engineering. Her kombinerer jeg min solide udviklerbaggrund med en stærk ekspertise i Python for at bygge intelligente, datadrevne systemer. Jeg har stor interesse for og praktisk erfaring med at designe og opsætte komplekse AI-arkitekturer, herunder implementering af lokale LLMs (Large Language Models). Mit mål er at udvikle komplette applikationer og specialiserede programmer, der udnytter kunstig intelligens til at løse konkrete problemer og skabe reel værdi – fra idé til færdigt produkt.
 
    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-kastholm-a0a260209/)
 
